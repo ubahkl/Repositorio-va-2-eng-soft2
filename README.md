@@ -1,2 +1,5 @@
 # Repositorio-va-2-eng-soft2
-Repositório va 2 engenharia de software ! 
+
+Nome : Arthur de araujo craveiro
+Curso : Sistema de informação 
+Semestre: Terceiro semestre. 
